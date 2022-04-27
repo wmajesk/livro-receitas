@@ -5,6 +5,7 @@
 -  Pizza de Frango com Catupiry
 -  Pavê
 -  Salmão ao molho de maracujá
+-  Bolo de chocolate
 
   
 
