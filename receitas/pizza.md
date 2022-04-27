@@ -29,7 +29,7 @@
 
 ## MODO DE PREPARO
 
-## Super dicas de modo de preparo de Pizza de Frango com Catupiry
+### Super dicas de modo de preparo de Pizza de Frango com Catupiry
 
 **Modo de preparo da massa:**
 
