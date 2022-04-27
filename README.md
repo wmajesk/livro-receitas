@@ -2,7 +2,8 @@
 
 ## Olá! Bem vindo ao meu livro de receitas :shallow_pan_of_food:
 
-## -  Pizza de Frango com Catupiry 
+-  Pizza de Frango com Catupiry 
+
 -  Pavê
 -  Salmão ao molho de maracujá
 -  Bolo de chocolate
